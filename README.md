@@ -6,7 +6,8 @@
 - Francisco Yury Pinheiro Silva
 
 ## Objetivo do Aplicativo
-O objetivo principal do aplicativo é permitir que o usuário explore e modifique um objeto 3D de forma interativa. O controle da rotação do objeto oferece uma visualização completa de sua geometria, enquanto o controle de cores permite ao usuário ajustar a aparência estética do objeto de acordo com suas preferências.
+O objetivo principal do aplicativo é permitir que o usuário explore e modifique um objeto 3D de forma interativa. O controle da rotação do objeto oferece uma visualização completa de sua geometria, enquanto o controle de cores permite ao usuário ajustar a aparência estética do objeto de acordo com suas preferências. 
+A ideia por trás da concepção deste aplicativo é a criação de um catálogo de espécies que poderia ser utilizado em um contexto educacional, especialmente em aulas de biologia. O aplicativo permite que diferentes modelos de espécies (como animais ou plantas) sejam visualizados em 3D, possibilitando uma análise detalhada das características desses organismos. A capacidade de modificar cores do modelo também pode ser útil para destacar características específicas, como diferentes partes do corpo ou variabilidade genética, proporcionando uma experiência de aprendizagem interativa e visual.
 
 ## Funcionamento do Aplicativo
 Este aplicativo é um visualizador 3D interativo que permite rotacionar um objeto 3D e alterar suas cores. Ele utiliza o conceito de Trackball para realizar a rotação do modelo e permite que o usuário modifique a intensidade das cores do objeto através de botões de controle.
@@ -24,7 +25,7 @@ O aplicativo oferece controles de cores através de botões. Esses botões ajust
 - -green: Diminui a intensidade da cor verde no objeto.
 - +blue: Aumenta a intensidade da cor azul no objeto.
 - -blue: Diminui a intensidade da cor azul no objeto.
-- 
+
 Cada botão afeta a componente de cor correspondente, permitindo ao usuário fazer ajustes em tempo real e ver o impacto imediatamente na renderização do objeto. O valor de cada componente de cor varia de 0 a 1, onde 0 significa nenhuma intensidade e 1 representa a intensidade máxima da cor.
 
 ## Vídeo de demonstração
