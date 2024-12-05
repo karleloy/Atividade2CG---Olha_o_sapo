@@ -7,7 +7,7 @@
 
 ## Vídeo de demonstração
 
-Para ver o jogo funcionando, [clique aqui](https://youtu.be/nyBvsQ9mdGU).
+Para ver o jogo funcionando, [clique aqui](https://drive.google.com/file/d/1OGZeqfUua4DHcL3dYxXEdSG1qNi08lK4/view?usp=drive_link).
 
 ## Arquivos
 Consulte a pasta "Olha_o_sapo" deste repositório para obter os arquivos do projeto.
