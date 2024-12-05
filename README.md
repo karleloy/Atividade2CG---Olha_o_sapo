@@ -77,3 +77,10 @@ Este arquivo define o Vertex Shader da aplicação, responsável por transformar
 - Em `gl_Position = projMatrix * posEyeSpace;` a posição do vértice é transformada para o espaço de projeção, preparando o vértice para a renderização na tela.
 
 Este shader aplica um efeito de escurecimento baseado na profundidade. Vértices mais próximos da câmera têm uma cor mais clara, enquanto vértices mais distantes tornam-se progressivamente mais escuros.
+
+## Rodando em WebAssembly
+Os binários WebAssembly já foram compilados e estão disponíveis na pasta **public** deste repositório. Os binários devem ser movidos para o diretório abcg\public.
+
+Para iniciar a plicação é preciso ativar as variáveis de ambiente do Emscripten executando *emsdk_env.sh/emsdk_env.bat* no diretório emsdk. Após isso, executar *runweb.sh/runweb.bat* no diretório abcg.
+
+Com tais procedimentos realizados basta entrar no link [clique aqui](http://localhost:8080/Olha_o_sapo.html).
