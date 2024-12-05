@@ -11,19 +11,20 @@ O objetivo principal do aplicativo é permitir que o usuário explore e modifiqu
 ## Funcionamento do Aplicativo
 Este aplicativo é um visualizador 3D interativo que permite rotacionar um objeto 3D e alterar suas cores. Ele utiliza o conceito de Trackball para realizar a rotação do modelo e permite que o usuário modifique a intensidade das cores do objeto através de botões de controle.
 
-# Interações
+### Interações
 Rotação do Objeto
 O objeto 3D pode ser rotacionado em todas as direções utilizando o mouse. Isso é possível devido ao uso do Trackball, que permite ao usuário arrastar o mouse sobre a tela para girar o objeto nas direções desejadas. A rotação é suave e precisa, proporcionando uma experiência de visualização imersiva.
 
-# Alteração das Cores do Objeto
+### Alteração das Cores do Objeto
 O aplicativo oferece controles de cores através de botões. Esses botões ajustam as componentes de cor RGB (vermelho, verde e azul) do objeto, permitindo que o usuário personalize as cores da maneira desejada. Os botões disponíveis são:
 
-+red: Aumenta a intensidade da cor vermelha no objeto.
--red: Diminui a intensidade da cor vermelha no objeto.
-+green: Aumenta a intensidade da cor verde no objeto.
--green: Diminui a intensidade da cor verde no objeto.
-+blue: Aumenta a intensidade da cor azul no objeto.
--blue: Diminui a intensidade da cor azul no objeto.
+- +red: Aumenta a intensidade da cor vermelha no objeto.
+- -red: Diminui a intensidade da cor vermelha no objeto.
+- +green: Aumenta a intensidade da cor verde no objeto.
+- -green: Diminui a intensidade da cor verde no objeto.
+- +blue: Aumenta a intensidade da cor azul no objeto.
+- -blue: Diminui a intensidade da cor azul no objeto.
+- 
 Cada botão afeta a componente de cor correspondente, permitindo ao usuário fazer ajustes em tempo real e ver o impacto imediatamente na renderização do objeto. O valor de cada componente de cor varia de 0 a 1, onde 0 significa nenhuma intensidade e 1 representa a intensidade máxima da cor.
 
 ## Vídeo de demonstração
