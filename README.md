@@ -83,4 +83,4 @@ Os binários WebAssembly já foram compilados e estão disponíveis na pasta **p
 
 Para iniciar a plicação é preciso ativar as variáveis de ambiente do Emscripten executando *emsdk_env.sh/emsdk_env.bat* no diretório emsdk. Após isso, executar *runweb.sh/runweb.bat* no diretório abcg.
 
-Com tais procedimentos realizados basta entrar no link [clique aqui](http://localhost:8080/Olha_o_sapo.html).
+Com tais procedimentos realizados basta entrar no link [Olha_o_sapo](http://localhost:8080/Olha_o_sapo.html).
