@@ -1,9 +1,9 @@
 # Atividade 2 de Computação Gráfica - 2024.3 - Prof Celso Setsuo Kurashima
 
-# Discentes
-- Ana Carolina da Silva Martins
-- Karl Eloy Henrique
+## Discentes
 - Francisco Yury Pinheiro Silva
+- Karl Eloy Henrique
+- Ana Carolina da Silva Martins
 
 ## Objetivo do Aplicativo
 O objetivo principal do aplicativo é permitir que o usuário explore e modifique um objeto 3D de forma interativa. O controle da rotação do objeto oferece uma visualização completa de sua geometria, enquanto o controle de cores permite ao usuário ajustar a aparência estética do objeto de acordo com suas preferências.
