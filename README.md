@@ -13,7 +13,7 @@ Para ver o jogo funcionando, [clique aqui](https://drive.google.com/file/d/1OGZe
 Consulte a pasta "Olha_o_sapo" deste repositório para obter os arquivos do projeto.
 O programa é baseado nos seguintes arquivos:
 
-main.cpp
+main.cpp\
 Este arquivo contém o ponto de entrada principal do aplicativo de visualização de modelos 3D. Cria uma instância da classe abcg::Application, que gerencia o ciclo de vida da aplicação OpenGL. Cria uma instância da classe Window, que define o comportamento da janela e a renderização dos modelos 3D. Define as configurações de OpenGL, como a quantidade de multisampling (samples = 4), que melhora a qualidade visual do modelo.
 
 model.cpp
