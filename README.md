@@ -82,8 +82,8 @@ Este arquivo define o Vertex Shader da aplicação, responsável por transformar
 Este shader aplica um efeito de escurecimento baseado na profundidade. Vértices mais próximos da câmera têm uma cor mais clara, enquanto vértices mais distantes tornam-se progressivamente mais escuros.
 
 ## Rodando em WebAssembly
-Os binários WebAssembly já foram compilados e estão disponíveis na pasta **public** deste repositório. Os binários devem ser movidos para o diretório abcg\public.
+Os binários WebAssembly foram compilados e estão disponíveis na pasta **public** deste repositório. 
 
-Para iniciar a plicação é preciso ativar as variáveis de ambiente do Emscripten executando *emsdk_env.sh/emsdk_env.bat* no diretório emsdk. Após isso, executar *runweb.sh/runweb.bat* no diretório abcg.
+Criamos um site do **GitHub Pages** para permitir o acesso direto ao aplicativo.
 
-Com tais procedimentos realizados basta entrar no link [Olha_o_sapo](http://localhost:8080/Olha_o_sapo.html).
+Basta entrar no link [Olha_o_sapo](https://karleloy.github.io/Atividade2CG-Olha_o_sapo/public/Olha_o_sapo.html).
